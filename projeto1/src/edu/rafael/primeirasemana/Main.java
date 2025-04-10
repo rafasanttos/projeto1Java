@@ -8,7 +8,7 @@ public class Main {
         double peso = 89.45;
         String imc;
         String nome1 ="Rafael";
-        if(peso<75.20){
+        if(peso<89.45){
             imc="Muito Magro";
             System.out.println(nome1+"seu imc é "+imc);
         }
