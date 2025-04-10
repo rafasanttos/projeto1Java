@@ -13,7 +13,7 @@ public class Main {
         smartTv.aumentarVolume();
         smartTv.aumentarVolume();
         System.out.println(smartTv.canal);
-        smartTv.mudarCanal(45);
+        smartTv.mudarCanal(27);
         smartTv.diminuirCanal();
         System.out.println(smartTv.canal);
 
