@@ -5,10 +5,10 @@ package edu.rafael.primeirasemana;
 public class Main {
     public static void main(String[] args) {
         String nome = "Rafael dos santos";
-        double peso = 42.45;
+        double peso = 89.45;
         String imc;
         String nome1 ="Rafael";
-        if(peso<55.20){
+        if(peso<75.20){
             imc="Muito Magro";
             System.out.println(nome1+"seu imc é "+imc);
         }
